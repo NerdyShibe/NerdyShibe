@@ -2,8 +2,7 @@
 
 ### :zap: About me
 
-- I'm a very passionate programmer with a background in electrical engineering, now with more then 3 years of experience working as a fullstack web developer mainly focused on Ruby on Rails and JavaScript.
-- I'm currently looking for new remote opportunities that are mainly focused on backend using the Ruby on Rails framework.
+- I'm a very passionate programmer with a background in electrical engineering, now with more then 6 years of experience working as a fullstack web developer mainly focused on Ruby on Rails and JavaScript.
 - My favorite hobbies are gaming, running, table tennis, biking and swimming.
 
 <hr>
