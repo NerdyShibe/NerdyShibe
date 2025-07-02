@@ -27,11 +27,13 @@
 
 <hr>
 
+### :bar_chart: Some cool stats
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fernandoepm1&theme=jolly" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NerdyShibe&theme=jolly" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoepm1&layout=compact&langs_count=8&theme=jolly&card_width=360" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NerdyShibe&layout=compact&langs_count=8&theme=jolly&card_width=360" />
 </a>
 
 <hr>
@@ -40,7 +42,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandoepm1/)](https://www.linkedin.com/in/fernandoepm1/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernando.epm1@gmail.com)](mailto:fernando.epm1@gmail.com)
-[![Visits Badge](https://badges.pufler.dev/visits/fernandoepm1/fernandoepm1)](https://badges.pufler.dev)
 
 Feel free to reach out via social media or e-mail and thanks for visiting!
 
