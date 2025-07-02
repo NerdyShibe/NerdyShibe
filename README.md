@@ -28,10 +28,10 @@
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandoepm1&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true&custom_title=GitHub%20Stats&icon_color=C5C9D0&line_height=24&theme=synthwave" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fernandoepm1&theme=jolly" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoepm1&layout=compact&theme=synthwave&langs_count=8" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoepm1&layout=compact&langs_count=8&theme=jolly&card_width=400" />
 </a>
 
 <hr>
