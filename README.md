@@ -2,39 +2,48 @@
 
 ### :zap: About me
 
-- I'm a very passionate programmer with a background in electrical engineering, now with more then 6 years of experience working as a fullstack web developer mainly focused on Ruby on Rails and JavaScript.
+- I'm a very passionate programmer with a background in electrical engineering, now with more then 6 years of experience working as a **Fullstack Web Developer** mainly focused on **Ruby on Rails** and **JavaScript/TypeScript**.
 - My favorite hobbies are gaming, running, table tennis, biking and swimming.
 
 <hr>
 
-### :man_technologist: My tech stack
+### :computer: My Fullstack Tech Stack
 
-![Ruby](https://img.shields.io/badge/Ruby-333333?style=flat&logo=ruby&logoColor=red)
-![Ruby On Rails](https://img.shields.io/badge/Ruby_on_Rails-333333?style=flat&logo=ruby-on-rails&logoColor=red)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jquery)
-![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap)
-<br/>
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=007ACC)
+#### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### Backend & Databases
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+#### DevOps & Tooling
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <hr>
 
-### :bar_chart: Some cool stats
+### :bar_chart: Contribution Activity
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NerdyShibe&theme=jolly" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NerdyShibe&layout=compact&langs_count=8&theme=jolly&card_width=360" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=NerdyShibe&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NerdyShibe&layout=compact&theme=tokyonight&langs_count=8" height="180" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NerdyShibe&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
+</div>
 
 <hr>
 
