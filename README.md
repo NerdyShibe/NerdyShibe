@@ -5,7 +5,7 @@
 - I'm a very passionate programmer with a background in electrical engineering, now with more then 6 years of experience working as a **Fullstack Web Developer** mainly focused on **Ruby on Rails** and **JavaScript/TypeScript**.
 - My favorite hobbies are gaming, running, table tennis, biking and swimming.
 
-<hr>
+<br>
 
 ## :computer: My Fullstack Journey
 
@@ -35,7 +35,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<hr>
+<br>
 
 ## :bar_chart: Some Cool Stats
 
@@ -48,7 +48,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NerdyShibe&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
 </div>
 
-<hr>
+<br>
 
 ## :telephone: Contact
 
